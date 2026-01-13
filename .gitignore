@@ -1,0 +1,13 @@
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Photoshop / temp files
+*.psd
+*.psb
+*.tmp
+
+# Other editor/backup files
+*~
+*.swp
