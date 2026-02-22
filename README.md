@@ -5,6 +5,7 @@ sexy statues. The artwork combines original composition and editing by
 MarioMUI with statue assets from mods by **PSBoss** hosted on Nexus Mods.
 
 All images were created and edited using **Adobe Photoshop 2025**.
+Assets & Images/5. Assets/The Rock Moai.png
 ![The Rock Moai](https://github.com/Mario64MUI/SexyStatues-Images/blob/main/Assets%20&%20Images/5.%20Assets/The%20Rock%20Moai.png?raw=true)
 ## Contents
 
