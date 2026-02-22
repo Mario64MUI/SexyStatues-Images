@@ -6,7 +6,7 @@ MarioMUI with statue assets from mods by **PSBoss** hosted on Nexus Mods.
 
 All images were created and edited using **Adobe Photoshop 2025**.
 
-### ![The Rock Moai](Assets & Images/5. Assets/The Rock Moai.png)
+![The Rock Moai](Assets & Images/5. Assets/The Rock Moai.png)
 ## Contents
 
 - Edited images featuring statues from PSBoss's Nexus Mods.
